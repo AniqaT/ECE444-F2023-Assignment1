@@ -10,6 +10,6 @@
 <img width="1014" alt="Activity 3" src="https://github.com/AniqaT/ECE444-F2023-Assignment1/assets/86853243/875ed98a-9889-48ca-a5e1-8465acd93d20">
 
 ## Activity 4
-<img width="1126" alt="Activity 4" src="https://github.com/AniqaT/ECE444-F2023-Assignment1/assets/86853243/18ffcbde-d245-4cfc-a946-60d5f3bf5657">
+<img width="1198" alt="Screen Shot 2023-09-11 at 7 20 04 PM" src="https://github.com/AniqaT/ECE444-F2023-Assignment1/assets/86853243/866c697d-06f1-4dda-8bea-9547d5978f1e">
 
 
