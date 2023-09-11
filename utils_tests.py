@@ -6,6 +6,7 @@ class utils_tests ():
         assert utils.reversed(59.5) == "Input must be an int", "Should be \"Input must be an int\""
         assert utils.reversed("75") == "Input must be an int", "Should be \"Input must be an int\""
         assert utils.reversed(87) == 78, "Should be 78"
+        assert utils.reversed(79) == 97, "Should be 97"
 
     def test_formatter():
         assert utils.formatter(95) == ['0b1011111', '0o137'], "Should be ['0b1011111', '0o137']"
