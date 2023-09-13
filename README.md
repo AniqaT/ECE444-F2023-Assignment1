@@ -19,7 +19,7 @@
 ### rebase branch commits
 <img width="1198" alt="Activity 5 rebase branch" src="https://github.com/AniqaT/ECE444-F2023-Assignment1/assets/86853243/c781411b-a8de-45db-b4b7-6f18ccc194ef">
 
-## All Related Commands
+### All Related Commands
 <img width="868" alt="Activity 5 Rebase Commits" src="https://github.com/AniqaT/ECE444-F2023-Assignment1/assets/86853243/da00b965-2038-489f-867b-e82c20a1f0bc">
 
 <img width="1257" alt="Activity 5 Develop Commits + First Attempt to Rebase" src="https://github.com/AniqaT/ECE444-F2023-Assignment1/assets/86853243/255ff639-46bd-4816-a442-f1995e2eedbe">
